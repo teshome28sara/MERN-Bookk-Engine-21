@@ -18,20 +18,21 @@ This is a MERN stack application that uses Mongodb for database, node.js, expres
 
 ## Installation/Technologies
 
-NPM Apollo Client Package
-NPM Apollo-Server-Express Package
-NPM GraphQL Package
-NPM Bcrypt Package
-NPM Express.js Package
-NPM JSONWebToken
-NPM Mongoose Package
-Node.js
-NPM nodemon Package
-NPM JWT-Decode Package
-NPM React Package
-NPM React-Bootstrap
-React-Dom
-React-Router-Dom
+NPM Apollo Client Package <br />
+NPM Apollo-Server-Express Package<br />
+NPM GraphQL Package<br />
+NPM Bcrypt Package<br />
+NPM Express.js Package<br />
+NPM JSONWebToken<br />
+
+NPM Mongoose Package<br />
+Node.js<br />
+NPM nodemon Package<br />
+NPM JWT-Decode Package<br />
+NPM React Package<br />
+NPM React-Bootstrap<br />
+React-Dom<br />
+React-Router-Dom<br />
 React-Scripts
 ## License
 
