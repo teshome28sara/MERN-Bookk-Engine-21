@@ -13,6 +13,7 @@ const LoginForm = () => {
   const [login, { error }] = useMutation(LOGIN_USER);
 
   useEffect(() => {
+    console.log(error)
     if (error) {
       setShowAlert(true);
     } else {
@@ -39,7 +40,6 @@ const LoginForm = () => {
       const { data } = await login({
         variables: { ...userFormData }
       });
-
       Auth.login(data.login.token);
 
     } catch (err) {

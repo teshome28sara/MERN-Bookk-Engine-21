@@ -21,6 +21,7 @@ const resolvers = {
             return { token, user };
         },
         login: async (parent, { email, password }) => {
+            console.log("Inside")
             const user = await User.findOne( { email });
             if (!user) {
                 throw new AuthenticationError("wrong email")
