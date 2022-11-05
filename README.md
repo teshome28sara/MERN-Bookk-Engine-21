@@ -47,7 +47,7 @@ University of Washington coding bootcamp challenge assignment
 ## Test
 
 To test thisapplication, please clone the repo and install the necessary npm dependencies. Type "npm run develop" from root directery of application
-</br> For code review go to the [Github  repo](https://github.com/teshome28sara/Tech_Blog)
+</br> For code review go to the [Github  repo](https://github.com/teshome28sara/MERN-Bookk-Engine-21)
 </br>For deployed site go to  [Tech Blog](https://peaceful-sands-79641.herokuapp.com/)
 
 ## Questions
@@ -55,10 +55,10 @@ To test thisapplication, please clone the repo and install the necessary npm dep
 
  ###  Desktop  Screenshot
 
- ![Tech Blog](screenshot.png)
+ ![Google book search](bookSearch.png)
 
- ### Moble  Screenshot
 
- ![Tech Blog](moble.png)
+
+
 
 
